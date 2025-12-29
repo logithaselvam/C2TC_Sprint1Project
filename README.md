@@ -7,7 +7,7 @@ This is a Spring Boot project created for C2TC Sprint.
 - Java
 - Spring Boot
 - PostgreSQL
-- Maven
+- Postman
 
 ## Author
 Logitha S
